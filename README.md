@@ -15,7 +15,7 @@ Steps
 
  bash
 
-    insert project
+    (https://github.com/Amy9594/qa-engineer-exam.git)
 
 Navigate to the project directory:
 
